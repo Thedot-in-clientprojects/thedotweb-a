@@ -55,6 +55,8 @@ export default function Home() {
     window.scrollTo(0, 0);
   }, []);
 
+
+
   return (
     <>
       {/* Start Hero Section */}

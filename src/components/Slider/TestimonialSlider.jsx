@@ -9,35 +9,36 @@ export default function TestimonialSlider() {
   const [nav2, setNav2] = useState();
   const testimonialData = [
     {
-      testimonialThumb: '/images/testimonial_1.jpeg',
+      testimonialThumb: '/images/testi/code.png',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        "We hired The Dot Tech  team for our startup. They not only brought our vision to life, but also offered valuable insights and suggestions throughout the process. Our website is now modern, user-friendly and helps us effectively reach and engage with our target audience. We highly recommend this team to any startup looking to elevate their online presence. Thank you for the fantastic work!",
+      avatarName: 'SHIVA ',
+      avatarDesignation: 'CODING FOR DEAF, USA',
       ratings: '4',
     },
     {
-      testimonialThumb: '/images/testimonial_2.jpeg',
+      testimonialThumb: '/images/testi/ice.png',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        
+"I recently had the pleasure of working with the team thedot tech to design a board for my cafe's 2nd year anniversary. From start to finish, the process was seamless and the team was incredibly responsive to my needs and requests. The final product was even better than I could have imagined and truly exceeded my expectations. The quality of the design and materials used were top-notch and made for a stunning display. I would highly recommend thedot tech  to anyone in need of custom design work and I cannot wait to work with them again in the future.",
+      avatarName: 'GOWTHAM ',
+      avatarDesignation: ' ICE CREAM CAFE',
       ratings: '5',
     },
     {
-      testimonialThumb: '/images/testimonial_3.jpeg',
+      testimonialThumb: '/images/testi/csc.png',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+       " Working with the dot tech on my logo and website design was a fantastic experience. The end result perfectly reflects my brand and the website is both visually appealing and functional. thedot was professional, responsive, and delivered the project on time. I highly recommend their services.",
+      avatarName: 'Subramanian ',
+      avatarDesignation: 'csc president ',
       ratings: '4.5',
     },
     {
-      testimonialThumb: '/images/testimonial_1.jpeg',
+      testimonialThumb: '/images/testi/bangs.png',
       testimonialText:
-        'I wish I would have thought of it first. Creative agency is the most tech valuable business resource we have ever purchased. Dude your stuff  is the bomb! eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt to the explicabo.',
-      avatarName: 'Ahon Monsery',
-      avatarDesignation: 'CEO AT TECH',
+        "I've been using the digital marketing services for my salon for the past 8 months and I am blown away by the results. The team at the dot tech not only increased our online presence but also helped us attract new customers. The monthly reports and analysis provided give us insight into our target audience and how we can better serve them. I highly recommend their services to any salon looking to expand their reach and grow their business. Thank you thedot tech for your hard work and dedication to our success!",
+      avatarName: 'Divya ',
+      avatarDesignation: 'bangs salon ',
       ratings: '3.5',
     },
   ];

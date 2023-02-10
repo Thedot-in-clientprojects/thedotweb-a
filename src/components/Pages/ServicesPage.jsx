@@ -67,7 +67,6 @@ export default function ServicesPage() {
                 <Div className='col-lg-3 col-sm-6'>
                   <Card
                     title='Branding'
-                    link='/service/technology'
                     src='/images/service_4.jpeg'
                     alt='Service'
                   />
@@ -78,7 +77,6 @@ export default function ServicesPage() {
                 <Div className='col-lg-3 col-sm-6'>
                   <Card
                     title='Logo Design'
-                    link='/service/consultancy'
                     src='/images/service_5.jpeg'
                     alt='Service'
                   />
@@ -88,7 +86,6 @@ export default function ServicesPage() {
                 <Div className='col-lg-3 col-sm-6'>
                   <Card
                     title='Creative Design'
-                    link='/service/creative-design'
                     src='/images/service_6.jpeg'
                     alt='Service'
                   />

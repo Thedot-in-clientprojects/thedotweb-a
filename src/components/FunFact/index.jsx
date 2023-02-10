@@ -1,8 +1,14 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import Div from '../Div'
 import './funfact.scss'
 
 export default function FunFact({variant, title, subtitle, data}) {
+  
+  useEffect(() => {
+    
+  },[])
+  
+
   return (
     
     <Div className={variant ? `cs-funfact_wrap ${variant}`: 'cs-funfact_wrap'}>
@@ -10,7 +16,7 @@ export default function FunFact({variant, title, subtitle, data}) {
       
       
       <div className='mockup-video' style={{display: "flex", justifyContent: "center", alignItems: "center", margin: "0 auto"}}>
-      <video src="images/portfolio/mock.webm" style={{width: "400px"}} autoPlay loop  />
+      <video src="images/portfolio/mock.webm" style={{width: "400px"}} autoPlay loop muted  />
       </div>
     </Div>
   )

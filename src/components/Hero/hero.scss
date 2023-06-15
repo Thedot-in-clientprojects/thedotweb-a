@@ -83,6 +83,7 @@
       color: $accent;
     }
   }
+
   .cs-hero_subtitle {
     font-size: 18px;
     line-height: 1.9em;
@@ -652,7 +653,7 @@
 @media screen and (max-width: 575px) {
   .cs-hero.cs-style1 {
     .cs-hero_title {
-      font-size: 42px;
+      font-size: 35px;
       br {
         display: none;
       }

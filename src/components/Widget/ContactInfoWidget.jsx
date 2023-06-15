@@ -12,6 +12,10 @@ export default function ContactInfoWidget({withIcon, title}) {
         </li>
         <li>
           {withIcon?<span className='cs-accent_color'><Icon icon="mdi:envelope" /></span>:''}
+          team@thedottech.in
+        </li>
+        <li>
+          {withIcon?<span className='cs-accent_color'><Icon icon="mdi:envelope" /></span>:''}
           thedot.in.corp@gmail.com
         </li>
         <li>

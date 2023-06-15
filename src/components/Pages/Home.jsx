@@ -61,8 +61,7 @@ export default function Home() {
     <>
       {/* Start Hero Section */}
       <Hero
-        title="YOUR BRAND'S DIGITAL TRANSFORMATION<br /> STARTS HERE !"
-        subtitle="We deliver best problem solving solution for our client and provide finest finishing product in present and upcoming future."
+        title="YOUR BRAND'S DIGITAL TRANSFORMATION <br /> STARTS HERE !"
         btnText="Get a Quote"
         btnLink="/contact"
         scrollDownId="#service"
@@ -255,7 +254,7 @@ export default function Home() {
       {/* Start CTA Section */}
       <Div className="container">
         <Cta
-          title="Let’s disscuse make <br />something <i>cool</i> together"
+          title="Let’s discuss make <br />something <i>cool</i> together"
           btnText="Apply For Meeting"
           btnLink="/contact"
           bgSrc="/images/cta_bg.jpeg"

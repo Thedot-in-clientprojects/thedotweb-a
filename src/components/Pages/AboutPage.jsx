@@ -117,7 +117,7 @@ export default function AboutPage() {
           </Div>
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
-              title="Highly experienced pepole with us"
+              title="Highly experienced people with us"
               subtitle="Why Choose Us"
             >
               <Spacing lg="30" md="20" />

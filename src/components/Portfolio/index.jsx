@@ -5,8 +5,9 @@ import './portfolio.scss';
 
 export default function Portfolio({ href, src, title, subtitle, variant }) {
   return (
-    <Link
-      to={href}
+    <a
+      href={href}
+      target="_blank" rel="noreferrer noopener"
       className={`cs-portfolio cs-bg ${variant ? variant : 'cs-style1'}`}
     >
       <>
@@ -22,6 +23,6 @@ export default function Portfolio({ href, src, title, subtitle, variant }) {
           
         </Div>
       </>
-    </Link>
+    </a>
   );
 }

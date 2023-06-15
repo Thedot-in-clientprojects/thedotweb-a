@@ -34,7 +34,7 @@ export default function TestimonialSlider() {
       ratings: '4.5',
     },
     {
-      testimonialThumb: '/images/testi/bangs.png',
+      testimonialThumb: '/images/testi/bamgs.png',
       testimonialText:
         "I've been using the digital marketing services for my salon for the past 8 months and I am blown away by the results. The team at the dot tech not only increased our online presence but also helped us attract new customers. The monthly reports and analysis provided give us insight into our target audience and how we can better serve them. I highly recommend their services to any salon looking to expand their reach and grow their business. Thank you thedot tech for your hard work and dedication to our success!",
       avatarName: 'Divya ',

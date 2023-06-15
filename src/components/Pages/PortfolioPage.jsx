@@ -17,19 +17,21 @@ export default function PortfolioPage() {
     {
       title: 'Coding for Deaf',
       subtitle: 'Website',
+      href: "https://www.codingfordeaf.org/",
       src: '/images/portfolio/code.png',
       category: 'dev',
     },
     {
       title: 'The Coimbatore Social Club',
       subtitle: 'Website',
-      // href: '/portfolio/portfolio-details',
+      href: 'https://thecoimbatoresocialclub.com/',
       src: '/images/portfolio/csc.png',
       category: 'dev',
     },
     {
       title: 'Rudra Cycle Mart',
       subtitle: 'Website',
+      href: 'https://rudracyclemart.in/',
       src: '/images/portfolio/rudra.png',
       category: 'dev',
     },
@@ -48,6 +50,7 @@ export default function PortfolioPage() {
     {
       title: 'The H World',
       subtitle: 'website',
+      href: 'https://thehworld.in/',
       src: '/images/portfolio/h.png',
       category: 'dev',
     },
